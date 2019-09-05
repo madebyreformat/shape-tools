@@ -4,3 +4,4 @@ pygments: true
 auto: true
 baseurl: /shape-tools
 exclude: [node_modules, Gruntfile.js, package.json]
+theme: jekyll-theme-slate
